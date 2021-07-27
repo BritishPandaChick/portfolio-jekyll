@@ -1,0 +1,18 @@
+{
+	"version": 3,
+	"file": "styles.css",
+	"sources": [
+		"styles.scss",
+		"_sass/main.scss",
+		"_sass/mobile.scss",
+		"_sass/tablet.scss"
+	],
+	"sourcesContent": [
+		"@import \"main\";\n@import \"mobile\";\n@import \"tablet\";",
+		".current {\r\n    color: green;\r\n}",
+		"",
+		""
+	],
+	"names": [],
+	"mappings": "ACAA,AAAA,QAAQ,CAAC,EACL,KAAK,EAAE,KAAK,GACf"
+}

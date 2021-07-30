@@ -31,7 +31,7 @@ header li a:hover { color: #9dac38; }
 #copyright p { font-size: 16px; color: #fdfcfb; font-family: "Roboto Condensed", sans-serif; }
 
 /* ==== Home Page ==== */
-#main-image { background-image: url("../assets/images/sb-home-banner.png"); background-position: center; background-size: cover; padding: 150px 0; text-align: center; height: 500px; }
+#main-image { background-image: url("{{ site.url }}/assets/images/sb-home-banner.png"); background-position: center; background-size: cover; padding: 150px 0; text-align: center; height: 500px; }
 
 #main-image h2 { font-family: "Roboto Condensed", sans-serif; color: #558976; font-size: 65px; }
 

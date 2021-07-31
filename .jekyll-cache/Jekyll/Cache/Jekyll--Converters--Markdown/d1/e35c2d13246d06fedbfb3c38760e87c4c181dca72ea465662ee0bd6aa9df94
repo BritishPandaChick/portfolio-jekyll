@@ -1,13 +1,10 @@
----
-layout: default 
-title: About
----
+I"*
 <section id="about">
   <div class="container">
     <h2 class="text-center">About Sarah</h2>
     <div class="row">
       <div class="col-sm-12 col-md-12 col-lg-6">
-        <img src="/assets/images/main-portfolio-images.png" alt="Sarah Bartley" class="img-fluid">
+        <img src="/assets/images/main-portfolio-images.png" alt="Sarah Bartley" class="img-fluid" />
       </div>
 
       <div class="col-sm-12 col-md-12 col-lg-6">
@@ -22,17 +19,17 @@ title: About
     <h2>Portfolio</h2>
     <div class="row">
       <div class="col-sm-12 col-md-4 col-lg-4">
-        <img src="#" alt="#" class="img-fluid">
+        <img src="#" alt="#" class="img-fluid" />
         <h3>Headline</h3>
       </div>
 
       <div class="col-sm-12 col-md-4 col-lg-4">
-        <img src="#" alt="#" class="img-fluid">
+        <img src="#" alt="#" class="img-fluid" />
         <h3>Headline</h3>
       </div>
 
       <div class="col-sm-12 col-md-4 col-lg-4">
-        <img src="#" alt="#" class="img-fluid">
+        <img src="#" alt="#" class="img-fluid" />
         <h3>Headline</h3>
       </div>
     </div>
@@ -60,3 +57,4 @@ title: About
     </div>
   </div>
 </section>
+:ET

@@ -1,8 +1,18 @@
 - name: Facebook
   link: http://www.facebook.com/sarahbartleybpc
+  icon: fab fa-facebook
 - name: Twitter
   link: https://twitter.com/TheOriginalBPC
+  icon: fab fa-twitter-square
 - name: LinkedIn
   link: https://www.linkedin.com/in/sarahbartleybpc
+  icon: fab fa-linkedin
 - name: Instagram 
   link: https://www.instagram.com/britishpandachick
+  icon: fab fa-instagram
+- name: Pinterest
+  link: http://www.pinterest.com/theoriginalbpc
+  icon: fab fa-pinterest
+- name: Github
+  link: https://github.com/BritishPandaChick
+  icon: fab fa-github

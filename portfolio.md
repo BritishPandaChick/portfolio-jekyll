@@ -82,16 +82,14 @@ title: Portfolio
             <div class="col-sm-12 col-md-12 col-lg-6">
                 <h3>Disney Codes Challenge</h3>
                 <h4>Founded July 2019</h4>
-                <p>Disney Codes Challenge is a 57-day coding challenge. Developers are committed to building web projects inspired by 
-                    Disney properties each day for 23 minutes. Developers document their progress the challenge with the journal from the 
-                    challenge repository on Github.</p>
+                <p>Occupied in observing Mr. Bingley’s attentions to her sister, Elizabeth was far from suspecting that she was herself becoming an object of some interest in the eyes of his friend. Mr. Darcy had at first scarcely allowed her to be pretty; he had looked at her without admiration at the ball; and when they next met, he looked at her only to criticise. But no sooner had he made it clear to himself and his friends that she hardly had a good feature in her face, than he began to find it was rendered uncommonly intelligent by the beautiful expression of her dark eyes. To this discovery succeeded some others equally mortifying. Though he had detected with a critical eye more than one failure of perfect symmetry in her form, he was forced to acknowledge her figure to be light and pleasing; and in spite of his asserting that her manners were not those of the fashionable world, he was caught by their easy playfulness. Of this she was perfectly unaware; to her he was only the man who made himself agreeable nowhere, and who had not thought her handsome enough to dance with.</p>
                 <button type="button" class="btn btn-lg btn-block" onclick="openDisneyCodes()">Learn More</button>
             </div>
   
             <div class="col-sm-12 col-md-12 col-lg-6">
                 <h3>Elphas Can Code</h3>
                 <h4>Founded September 2019</h4>
-                <p>Elphas Can Code is a supportive online community for all Elpha members learning how to code. The community strives to help all members at different stages of their coding journeys. I serve as the community moderator where I review posts, enforce Elpha guidelines, and create conversations so all members can contribute.</p>
+                <p>Occupied in observing Mr. Bingley’s attentions to her sister, Elizabeth was far from suspecting that she was herself becoming an object of some interest in the eyes of his friend. Mr. Darcy had at first scarcely allowed her to be pretty; he had looked at her without admiration at the ball; and when they next met, he looked at her only to criticise. But no sooner had he made it clear to himself and his friends that she hardly had a good feature in her face, than he began to find it was rendered uncommonly intelligent by the beautiful expression of her dark eyes. To this discovery succeeded some others equally mortifying. Though he had detected with a critical eye more than one failure of perfect symmetry in her form, he was forced to acknowledge her figure to be light and pleasing; and in spite of his asserting that her manners were not those of the fashionable world, he was caught by their easy playfulness. Of this she was perfectly unaware; to her he was only the man who made himself agreeable nowhere, and who had not thought her handsome enough to dance with.</p>
                 <button type="button" class="btn btn-lg btn-block" onclick="openElpha()">Learn More</button>
             </div>
         </div>
@@ -125,7 +123,7 @@ title: Portfolio
             <div class="col-sm-12 col-md-12 col-lg-5">
                 <h3>Skillcrush Alumni Video</h3>
                 <h4>2018 - 2019</h4>
-                <p>I was interviewed for a Skillcrush promotional video for their website in February 2018. The premise of the video was to market Skillcrush courses by having Skillcrush alumni sharing stories with Skillcrush. I shared my story for the video and contributed pictures for the video slideshow. One of the websites I made was featured in the video.</p>
+                <p>Occupied in observing Mr. Bingley’s attentions to her sister, Elizabeth was far from suspecting that she was herself becoming an object of some interest in the eyes of his friend. Mr. Darcy had at first scarcely allowed her to be pretty; he had looked at her without admiration at the ball; and when they next met, he looked at her only to criticise. But no sooner had he made it clear to himself and his friends that she hardly had a good feature in her face, than he began to find it was rendered uncommonly intelligent by the beautiful expression of her dark eyes. To this discovery succeeded some others equally mortifying. Though he had detected with a critical eye more than one failure of perfect symmetry in her form, he was forced to acknowledge her figure to be light and pleasing; and in spite of his asserting that her manners were not those of the fashionable world, he was caught by their easy playfulness. Of this she was perfectly unaware; to her he was only the man who made himself agreeable nowhere, and who had not thought her handsome enough to dance with.</p>
             </div>
 
             <div class="col-sm-12 col-md-12 col-lg-7">

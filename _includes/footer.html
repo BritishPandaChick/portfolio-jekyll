@@ -5,20 +5,19 @@
         <p><i class="far fa-envelope"></i> britishpandachick@gmail.com</p>
       </div>
 
-      
-      {% for item in site.data.footer %}
-        <div class="col-sm-12 col-md-4 col-lg-4">
-          <nav>  
-            <ul class="nav">
+      <div class="col-sm-12 col-md-4 col-lg-4">
+        <nav>  
+          <ul class="nav">
+            {% for item in site.data.footer %}
               <li class="nav-item">
                 <a href="{{ item.link }}" target="_blank" class="nav-link">
                   <i class="{{ item.icon }} fa-2x"></i>
                 </a>
               </li>
-            </ul>
-          </nav>
-        </div>
-      {% endfor %}
+            {% endfor %}
+          </ul>
+        </nav>
+      </div> 
     </div>
   </div>
 </section>

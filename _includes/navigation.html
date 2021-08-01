@@ -5,16 +5,16 @@
             <span class="navbar-toggler-icon"></span>
         </button>
   
-        {% for item in site.data.navigation %}
-            <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                <ul class="navbar-nav mr-auto mb-2 mb-lg-0">
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto mb-2 mb-lg-0">
+                {% for item in site.data.navigation %}
                     <li class="nav-item">
                         <a class="nav-link" href="{{ item.link }}">
                             {{ item.name }}
                         </a>
                     </li>
-                </ul>
-            </div>
-        {% endfor %}
+                {% endfor %}
+            </ul>
+        </div>  
     </div>
 </nav>

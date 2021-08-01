@@ -27,7 +27,7 @@ header {
 
   li {
     font-weight: bold;
-    font-family: $headline-font;
+    font-family: $base-font;
 
     a {
         color: $white;
@@ -82,9 +82,8 @@ header {
 }
   
 /* ==== Home Page ==== */
-#main-image {
-  background-image: url("../assets/images/sb-home-banner.png");
-  background-position: right;
+#banner {
+  background-color: $dark-green;
   height: 300px;
   width: 100%;
   padding: 100px 0;
@@ -92,7 +91,7 @@ header {
 
   h2 {
     font-family: $headline-font;
-    color: $background-color;
+    color: $white;
     font-size: 25px;
   }
 
@@ -100,6 +99,7 @@ header {
     font-size: 20px;
     font-family: $headline-font;
     padding: 15px 0;
+    color: $white;
   }
 }
 
@@ -114,6 +114,75 @@ header {
   
   img {
     padding-top: 15px;
+  }
+}
+
+#skills {
+  padding: 40px;
+
+  h2 {
+    font-family: $headline-font;
+    color: $background-color;
+    font-size: 25px;
+  }
+
+  h3 {
+    font-size: 20px;
+    font-family: $headline-font;
+    padding: 15px 0;
+  }
+
+  ul {
+    font-size: 20px;
+    font-family: $base-font;
+    line-height: 32px;
+  }
+}
+
+#portfolio {
+  padding: 40px;
+
+  h2 {
+    font-size: 25px;
+    font-family: $headline-font;
+    color: $background-color;
+    text-align: center;
+  }
+
+  h3 {
+    font-size: 20px;
+    font-family: $headline-font;
+    padding: 15px 0;
+    text-align: center;
+  }
+}
+
+#latest-posts {
+  padding: 40px;
+
+  h2 {
+    font-size: 25px;
+    font-family: $headline-font;
+    color: $background-color;
+    text-align: center;
+  }
+
+  h3 {
+    font-size: 20px;
+    font-family: $headline-font;
+    padding: 15px 0;
+    text-align: center;
+  }
+
+  a {
+    color: $background-color;
+    font-size: 20px;
+    font-family: $base-font;
+    text-align: center;
+  }
+
+  a:hover {
+    color: $hover-color;
   }
 }
 

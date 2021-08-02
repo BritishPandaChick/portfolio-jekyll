@@ -31,17 +31,41 @@ header li a:hover { color: #9dac38; }
 #copyright p { font-size: 16px; color: #fdfcfb; font-family: "Roboto Condensed", sans-serif; }
 
 /* ==== Home Page ==== */
-#main-image { background-image: url("{{ site.url }}/assets/images/sb-home-banner.png"); background-position: center; background-size: cover; padding: 150px 0; text-align: center; height: 500px; }
+#banner { background-color: #385001; height: 500px; padding: 150px 0; text-align: center; }
 
-#main-image h2 { font-family: "Roboto Condensed", sans-serif; color: #558976; font-size: 65px; }
+#banner h2 { font-family: "Roboto Condensed", sans-serif; color: #fdfcfb; font-size: 65px; }
 
-#main-image h3 { font-size: 50px; font-family: "Roboto Condensed", sans-serif; padding: 15px 0; }
+#banner h3 { font-size: 50px; font-family: "Roboto Condensed", sans-serif; padding: 15px 0; color: #fdfcfb; }
 
 #career-compass { padding: 80px; }
 
 #career-compass p { font-family: "Josefin Slab", serif; font-size: 20px; line-height: 32px; padding: 150px 0; }
 
 #career-compass img { padding-top: 15px; }
+
+#skills { padding: 80px; }
+
+#skills h2 { font-family: "Roboto Condensed", sans-serif; color: #558976; font-size: 35px; }
+
+#skills h3 { font-size: 30px; font-family: "Roboto Condensed", sans-serif; padding: 15px 0; }
+
+#skills ul { font-size: 20px; font-family: "Josefin Slab", serif; line-height: 32px; }
+
+#portfolio { padding: 80px; }
+
+#portfolio h2 { font-size: 35px; font-family: "Roboto Condensed", sans-serif; color: #558976; text-align: center; }
+
+#portfolio h3 { font-size: 30px; font-family: "Roboto Condensed", sans-serif; padding: 15px 0; text-align: center; }
+
+#latest-posts { padding: 80px; }
+
+#latest-posts h2 { font-size: 35px; font-family: "Roboto Condensed", sans-serif; color: #558976; text-align: center; }
+
+#latest-posts h3 { font-size: 30px; font-family: "Roboto Condensed", sans-serif; padding: 15px 0; text-align: center; }
+
+#latest-posts a { color: #558976; font-size: 20px; font-family: "Josefin Slab", serif; text-align: center; }
+
+#latest-posts a:hover { color: #9dac38; }
 
 /* ==== About Page ==== */
 #about { padding: 50px; }
@@ -470,17 +494,41 @@ header li a:hover { color: #9dac38; }
 #copyright p { font-size: 18px; color: #fdfcfb; font-family: "Roboto Condensed", sans-serif; }
 
 /* ==== Home Page ==== */
-#main-image { background-image: url("../assets/images/sb-home-banner.png"); background-position: center; background-size: cover; padding: 100px 0; text-align: center; }
+#banner { background-color: #385001; height: 300px; padding: 100px 0; text-align: center; }
 
-#main-image h2 { font-family: "Roboto Condensed", sans-serif; color: #558976; font-size: 25px; }
+#banner h2 { font-family: "Roboto Condensed", sans-serif; color: #fdfcfb; font-size: 25px; }
 
-#main-image h3 { font-size: 20px; font-family: "Roboto Condensed", sans-serif; padding: 15px 0; }
+#banner h3 { font-size: 20px; font-family: "Roboto Condensed", sans-serif; padding: 15px 0; color: #fdfcfb; }
 
 #career-compass { padding: 50px; }
 
 #career-compass p { font-family: "Josefin Slab", serif; font-size: 20px; line-height: 32px; }
 
 #career-compass img { padding-top: 15px; }
+
+#skills { padding: 50px; }
+
+#skills h2 { font-family: "Roboto Condensed", sans-serif; color: #558976; font-size: 25px; }
+
+#skills h3 { font-size: 20px; font-family: "Roboto Condensed", sans-serif; padding: 15px 0; }
+
+#skills ul { font-size: 20px; font-family: "Josefin Slab", serif; line-height: 32px; }
+
+#portfolio { padding: 50px; }
+
+#portfolio h2 { font-size: 25px; font-family: "Roboto Condensed", sans-serif; color: #558976; text-align: center; }
+
+#portfolio h3 { font-size: 20px; font-family: "Roboto Condensed", sans-serif; padding: 15px 0; text-align: center; }
+
+#latest-posts { padding: 50px; }
+
+#latest-posts h2 { font-size: 25px; font-family: "Roboto Condensed", sans-serif; color: #558976; text-align: center; }
+
+#latest-posts h3 { font-size: 20px; font-family: "Roboto Condensed", sans-serif; padding: 15px 0; text-align: center; }
+
+#latest-posts a { color: #558976; font-size: 20px; font-family: "Josefin Slab", serif; text-align: center; }
+
+#latest-posts a:hover { color: #9dac38; }
 
 /* ==== About Page ==== */
 #about { padding: 40px; }

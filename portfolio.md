@@ -11,7 +11,7 @@ title: Portfolio
                 <h3>Yelpcamp</h3>
                 <p>Campgrounds web application made with Express.js that users to share and comment on specific campgrounds.</p>
                 <p><em>Node.js, Express.js, MongoDB, Bootstrap</em></p>
-                <a href="#" target="_blank">Code</a> &#8212 <a href="#">Post</a>
+                <a href="#" target="_blank">Code</a>
             </div>
 
             <div class="col-sm-12 col-md-12 col-lg-4">
@@ -19,7 +19,7 @@ title: Portfolio
                 <h3>Markdown Previewer</h3>
                 <p>Markdown Previewer website that renders markdown text into HTML code.</p>
                 <p><em>React.js</em></p>
-                <a href="#" target="_blank">Code</a> &#8212 <a href="#">Post</a>
+                <a href="#" target="_blank">Code</a>
             </div>
 
             <div class="col-sm-12 col-md-12 col-lg-4">
@@ -27,7 +27,7 @@ title: Portfolio
                 <h3>Sarah Bartley Blog</h3>
                 <p>WordPress blog website with customized theme.</p>
                 <p><em>WordPress, PHP</em></p>
-                <a href="#" target="_blank">Code</a> &#8212 <a href="#">Post</a> 
+                <a href="#" target="_blank">Code</a>
             </div>
 
             <div class="col-sm-12 col-md-12 col-lg-4">
@@ -35,7 +35,7 @@ title: Portfolio
                 <h3>Election Map</h3>
                 <p>Interactive Election Map that allows users to see who won certain states and the entire election.</p>
                 <p><em>HTML, CSS, JavaScript</em></p>
-                <a href="#" target="_blank">Code</a> &#8212 <a href="#">Post</a>
+                <a href="#" target="_blank">Code</a>
             </div>
           
             <div class="col-sm-12 col-md-12 col-lg-4">
@@ -43,7 +43,7 @@ title: Portfolio
                 <h3>Magic 8 Ball</h3>
                 <p>Ask the magic 8 ball any question and get an answer.</p>
                 <p><em>HTML, CSS, JavaScript, jQuery</em></p>
-                <a href="#" target="_blank">Code</a> &#8212 <a href="#">Post</a>
+                <a href="#" target="_blank">Code</a>
             </div>
 
             <div class="col-sm-12 col-md-12 col-lg-4">
@@ -51,7 +51,7 @@ title: Portfolio
                 <h3>Tribute Page</h3>
                 <p>Static one page tribute page about the Duchess of Cambridge.</p>
                 <p><em>HTML, CSS, Bootstrap</em></p>
-                <a href="#" target="_blank">Code</a> &#8212 <a href="#">Post</a>
+                <a href="#" target="_blank">Code</a>
             </div>
         </div>
     </div> 

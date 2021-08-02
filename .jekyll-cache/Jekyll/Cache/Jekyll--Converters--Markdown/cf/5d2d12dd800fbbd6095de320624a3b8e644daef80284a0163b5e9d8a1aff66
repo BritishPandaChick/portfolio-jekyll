@@ -1,0 +1,15 @@
+I"�<section id="about">
+  <div class="container">
+    <h2 class="text-center">About Sarah</h2>
+    <div class="row">
+      <div class="col-sm-12 col-md-12 col-lg-6">
+        <img src="/assets/images/main-portfolio-images.png" alt="Sarah Bartley" class="img-fluid" />
+      </div>
+
+      <div class="col-sm-12 col-md-12 col-lg-6">
+        <p>“Really, Mr. Collins,” cried Elizabeth with some warmth, “you puzzle me exceedingly. If what I have hitherto said can appear to you in the form of encouragement, I know not how to express my refusal in such a way as to convince you of its being one.”</p>
+      </div>
+&lt;/section&gt;
+
+</div></div></section>
+:ET

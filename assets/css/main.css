@@ -65,23 +65,22 @@ header li a:hover {
 }
 
 /* ==== Home Page ==== */
-#main-image {
-  background-image: url("{{ site.url }}/assets/images/sb-home-banner.png");
-  background-position: center;
-  background-size: cover;
+#banner {
+  background-color: #385001;
+  height: 500px;
   padding: 150px 0;
   text-align: center;
-  height: 500px;
 }
-#main-image h2 {
+#banner h2 {
   font-family: "Roboto Condensed", sans-serif;
-  color: #558976;
+  color: #fdfcfb;
   font-size: 65px;
 }
-#main-image h3 {
+#banner h3 {
   font-size: 50px;
   font-family: "Roboto Condensed", sans-serif;
   padding: 15px 0;
+  color: #fdfcfb;
 }
 
 #career-compass {
@@ -95,6 +94,66 @@ header li a:hover {
 }
 #career-compass img {
   padding-top: 15px;
+}
+
+#skills {
+  padding: 80px;
+}
+#skills h2 {
+  font-family: "Roboto Condensed", sans-serif;
+  color: #558976;
+  font-size: 35px;
+}
+#skills h3 {
+  font-size: 30px;
+  font-family: "Roboto Condensed", sans-serif;
+  padding: 15px 0;
+}
+#skills ul {
+  font-size: 20px;
+  font-family: "Josefin Slab", serif;
+  line-height: 32px;
+}
+
+#portfolio {
+  padding: 80px;
+}
+#portfolio h2 {
+  font-size: 35px;
+  font-family: "Roboto Condensed", sans-serif;
+  color: #558976;
+  text-align: center;
+}
+#portfolio h3 {
+  font-size: 30px;
+  font-family: "Roboto Condensed", sans-serif;
+  padding: 15px 0;
+  text-align: center;
+}
+
+#latest-posts {
+  padding: 80px;
+}
+#latest-posts h2 {
+  font-size: 35px;
+  font-family: "Roboto Condensed", sans-serif;
+  color: #558976;
+  text-align: center;
+}
+#latest-posts h3 {
+  font-size: 30px;
+  font-family: "Roboto Condensed", sans-serif;
+  padding: 15px 0;
+  text-align: center;
+}
+#latest-posts a {
+  color: #558976;
+  font-size: 20px;
+  font-family: "Josefin Slab", serif;
+  text-align: center;
+}
+#latest-posts a:hover {
+  color: #9dac38;
 }
 
 /* ==== About Page ==== */

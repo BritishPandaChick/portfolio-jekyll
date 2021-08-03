@@ -7,7 +7,7 @@ title: Blog
     <h2 class="text-center">Blog</h2>
     <h3>The Orignal BritishPandaChick</h3>
     <div class="row">
-      <div class="col-sm-12 col-md-12 col-lg-12">
+      <div class="col-sm-12 col-md-12 col-lg-4">
         <p>6 July 2016 >> <a href="https://community.codenewbie.org/theoriginalbpc/5-favorite-coding-resources-3mhf" target="_blank">5 Favorite Coding Resources</a></p>
         <p>8 June 2016 >> <a href="https://community.codenewbie.org/theoriginalbpc/top-5-tips-from-what-color-is-your-parachute-21nk" target="_blank">Top 5 Tips from What Color is Your Parachute?</a></p>
         <p>21 June 2017 >> <a href="https://dev.to/theoriginalbpc/10-takeaways-from-the-2017-year-of-you-webinar-35dm" target="_blank">10 Takeaways from the 2017 Year of You Webinar</a></p>
@@ -21,6 +21,22 @@ title: Blog
         <p>2 November 2016 >> <a href="https://community.codenewbie.org/theoriginalbpc/a-design-newbie-s-guide-to-using-color-4899" tareget="_blank">A Design Newbie's Guide to Using Color</a></p>
         <br>
 
+        <h4>Land Your Dream Job Summit</h4>
+        <p>27 September 2017 >> <a href="https://dev.to/theoriginalbpc/8-reasons-learning-how-to-code-can-transform-your-life-4nff" target="_blank">8 Reasons Learning How to Code Can Transform Your Life</a></p>
+        <p>7 March 2018 >> <a href="https://dev.to/theoriginalbpc/how-to-network-your-way-to-a-dream-job-4f4e" target="_blank">How to Network Your Way to a Dream Job</a></p>
+        <br>
+
+        <h4>Codecademy HTML & CSS</h4>
+        <p>5 July 2017 >> <a href="https://community.codenewbie.org/theoriginalbpc/how-to-build-a-web-page-with-codecademy-49kk" target="_blank">How to Build a Web Page</a></p>
+        <p>19 July 2017 >> <a href="https://community.codenewbie.org/theoriginalbpc/how-to-build-a-social-networking-profile-with-codecademy-2oho" target="_blank">How to Build a Social Networking Profile</a></p>
+        <p>2 August 2017 >> <a href="https://community.codenewbie.org/theoriginalbpc/how-to-make-a-clickable-photo-page-5a34" target="_blank">How to Make a Clickable Photo Page</a></p>
+        <p>16 August 2017 >> <a href="https://community.codenewbie.org/theoriginalbpc/how-to-design-a-button-for-your-website-o8h" target="_blank">How to Design a Button For Your Website</a></p>
+        <p>30 August 2017 >> <a href="https://community.codenewbie.org/theoriginalbpc/how-to-sort-your-friends-into-groups-3f0k" target="_blank">How to Sort Your Friends into Groups</a></p>
+        <p>13 September 2017 >> <a href="https://community.codenewbie.org/theoriginalbpc/how-to-build-a-resume-site-2mm4" target="_blank">How to Build a Resume Site</a></p>
+        <br>
+      </div>
+
+      <div class="col-sm-12 col-md-12 col-lg-4">
         <h4>Skillcrush 101</h4>
         <p>11 January 2017 >> <a href="https://community.codenewbie.org/theoriginalbpc/the-newbie-s-guide-to-html-3pff" target="_blank">The Newbie's Guide to HTML</a></p>
         <p>18 January 2017 >> <a href="https://community.codenewbie.org/theoriginalbpc/how-to-put-lists-images-and-links-on-a-website-4k7l" target="_blank">How to Put Lists, Images, and Links on a Website</a></p>
@@ -40,21 +56,9 @@ title: Blog
         <p>22 November 2017 >> <a href="https://community.codenewbie.org/theoriginalbpc/what-you-need-to-know-about-domain-and-hosting-21jh" target="_blank">What You Need to Know About Domain and Hosting</a></p>
         <p>6 December 2017 >> <a href="https://community.codenewbie.org/theoriginalbpc/a-quick-guide-to-rogue-pickings-bonus-project-28c3" target="_blank">A Quick Gudie to Rogue Pickings Bonus Project</a></p>
         <br>
+      </div>
 
-        <h4>Codecademy HTML & CSS</h4>
-        <p>5 July 2017 >> <a href="https://community.codenewbie.org/theoriginalbpc/how-to-build-a-web-page-with-codecademy-49kk" target="_blank">How to Build a Web Page</a></p>
-        <p>19 July 2017 >> <a href="https://community.codenewbie.org/theoriginalbpc/how-to-build-a-social-networking-profile-with-codecademy-2oho" target="_blank">How to Build a Social Networking Profile</a></p>
-        <p>2 August 2017 >> <a href="https://community.codenewbie.org/theoriginalbpc/how-to-make-a-clickable-photo-page-5a34" target="_blank">How to Make a Clickable Photo Page</a></p>
-        <p>16 August 2017 >> <a href="https://community.codenewbie.org/theoriginalbpc/how-to-design-a-button-for-your-website-o8h" target="_blank">How to Design a Button For Your Website</a></p>
-        <p>30 August 2017 >> <a href="https://community.codenewbie.org/theoriginalbpc/how-to-sort-your-friends-into-groups-3f0k" target="_blank">How to Sort Your Friends into Groups</a></p>
-        <p>13 September 2017 >> <a href="https://community.codenewbie.org/theoriginalbpc/how-to-build-a-resume-site-2mm4" target="_blank">How to Build a Resume Site</a></p>
-        <br>
-
-        <h4>Land Your Dream Job Summit</h4>
-        <p>27 September 2017 >> <a href="https://dev.to/theoriginalbpc/8-reasons-learning-how-to-code-can-transform-your-life-4nff" target="_blank">8 Reasons Learning How to Code Can Transform Your Life</a></p>
-        <p>7 March 2018 >> <a href="https://dev.to/theoriginalbpc/how-to-network-your-way-to-a-dream-job-4f4e" target="_blank">How to Network Your Way to a Dream Job</a></p>
-        <br>
-
+      <div class="col-sm-12 col-md-12 col-lg-4">            
         <h4>Free Code Camp Bootstrap</h4>
         <p>10 January 2018 >> <a href="https://community.codenewbie.org/theoriginalbpc/how-to-center-text-build-buttons-and-create-mobile-responsive-images-2fia" target="_blank">How to Center Text, Build Buttons, and Create Mobile Responsive Images</a></p>
         <p>24 January 2018 >> <a href="https://community.codenewbie.org/theoriginalbpc/how-to-style-your-website-with-bootstrap-28jm" target="_blank">How to Style Your Website with Bootstrap</a></p>
@@ -84,15 +88,35 @@ title: Blog
   <div class="container">
     <h3>BritishPandaChick Codes</h3>
     <div class="row">
-      <div class="col-sm-12 col-md-12 col-lg-12">
+      <div class="col-sm-12 col-md-12 col-lg-4">
         <p>25 August 2020 >> <a href="https://dev.to/theoriginalbpc/reflections-on-the-7-days-7-websites-challenge-2hk2" target="_blank">Reflection on the 7 Days, 7 Websites Challenge</a></p>
         <br>
-
+        
         <h4>Skillcrush 101</h4>
         <p>29 February 2020 >> <a href="https://community.codenewbie.org/theoriginalbpc/how-to-add-additional-pages-to-your-website-49oi" target="_blank">How to Add Additional Pages to Your Website</a></p>
         <p>20 October 2020 >> <a href="https://community.codenewbie.org/theoriginalbpc/4-css-concepts-you-need-to-know-for-skillcrush-recipe-card-project-2ck5" targt="_blank">4 CSS Concepts You Need to Know for Skillcrush Recipe Card Project</a></p>
         <br>
 
+        <h4>Land Your Dream Job Summit</h4>
+        <p>5 September 2019 >> <a href="https://dev.to/theoriginalbpc/10-answers-for-using-job-boards-to-find-remote-jobs-3d91" target="_blank">10 Answers for Using Job Boards to Find Remote Jobs</a></p>
+        <br>
+
+        <h4>21 Days of Canva Challenge</h4>
+        <p>6 August 2020 >> <a href="https://dev.to/theoriginalbpc/days-1-10-5gbp" target="_blank">Days 1-10</a></p>
+        <p>17 August 2020 >> <a href="https://dev.to/theoriginalbpc/days-11-21-9h5" target="_blank">Days 11-21</a></p>
+        <br>
+
+        <h4>Disney Codes Challenge</h4>
+        <p>10 June 2020 >> <a href="https://dev.to/theoriginalbpc/days-1-10-5127" target="_blank">Days 1-10</a></p>
+        <p>20 June 2020 >> <a href="https://dev.to/theoriginalbpc/days-11-20-290n" target="_blank">Days 11-20</a></p>
+        <p>30 June 2020 >> <a href="https://dev.to/theoriginalbpc/days-21-30-12m1" target="_blank">Days 21-30</a></p>
+        <p>10 July 2020 >> <a href="https://dev.to/theoriginalbpc/days-31-40-4c24" target="_blank">Days 31-40</a></p>
+        <p>20 July 2020 >> <a href="https://dev.to/theoriginalbpc/days-41-50-3f0j" target="_blank">Days 41-50</a></p>
+        <p>27 July 2020 >> <a href="https://dev.to/theoriginalbpc/the-last-7-days-of-round-two-5a9d" target="_blank">The Last 7 Days of Round Two</a></p>
+        <br>
+      </div>
+
+      <div class="col-sm-12 col-md-12 col-lg-4">
         <h4>Skillcrush 102</h4>
         <p>10 September 2020 >> <a href="https://community.codenewbie.org/theoriginalbpc/a-quick-overview-of-skillcrush-102-intro-to-javascript-4g8l" target="_blank">A Quick Overview of Skillcrush 102: Intro to JavaScript</a></p>
         <p>19 December 2020 >> <a href="https://community.codenewbie.org/theoriginalbpc/4-principles-to-computational-thinking-2cf9" target="_blank">4 Principles to Computational Thinking</a></p>
@@ -107,6 +131,23 @@ title: Blog
         <p>22 July 2019 >> <a href="https://community.codenewbie.org/theoriginalbpc/a-complete-guide-to-project-agreements-and-workflow-1p6k" target="_blank">A Complete Guide to Project Agreements and Workflow</a></p>
         <br>
 
+        <h4>CNC2018 Get a Job Challenge</h4>
+        <p>24 November 2019 >> <a href="https://dev.to/theoriginalbpc/revisiting-cnc2018-get-a-job-how-to-find-companies-you-want-to-work-for-6gd" target="_blank">How to Find Companies You Want to Work For</a></p>
+        <p>27 December 2019 >> <a href="https://dev.to/theoriginalbpc/revisiting-cnc2018-get-a-job-how-to-find-roles-you-want-to-apply-for-3npe" target="_blank">How to Find Roles You Want to Apply For</a></p>
+        <p>20 February 2020 >> <a href="https://dev.to/theoriginalbpc/revisiting-cnc2018-get-a-job-a-quick-guide-to-updating-linkedin-491k" target="_blank">A Quick Guide to Updating LinkedIn</a></p>
+        <p>23 May 2020 >> <a href="https://dev.to/theoriginalbpc/a-newbie-s-handbook-to-talking-about-your-skills-28a8" target="_blank">A Newbie's Handbook to Talking About Your Skills</a></p>
+        <p>13 November 2020 >> <a href="https://dev.to/theoriginalbpc/how-to-find-5-contacts-at-the-companies-you-want-to-work-for-2f73" target="_blank">How to Find 5 Contacts at the Companies You Want to work For</a></p>
+        <br>
+      </div>
+
+      <div class="col-sm-12 col-md-12 col-lg-4">
+        <h4>Visme</h4>
+        <p>28 September 2019 >> <a href="https://dev.to/theoriginalbpc/how-to-use-visme-to-help-your-desing-projects-stand-out-2hj0" target="_blank">How to Use Visme to Help Your Design Projects Stand Out</a></p>
+        <p>12 January 2020 >> <a href="https://dev.to/theoriginalbpc/how-to-create-a-phone-wallpaper-with-visme-957" target="_blank">How to Create a Phone Wallpaper with Visme</a></p>
+        <p>12 March 2020 >> <a href="https://dev.to/theoriginalbpc/how-to-create-a-linkedin-header-with-visme-4l6p" target="_blank">How to Create a LinkedIn Header with Visme</a></p>
+        <p>3 April 2020 >> <a href="https://dev.to/theoriginalbpc/how-i-created-two-facebook-cover-images-with-visme-iln" target="_blank">How I Created Two Facebook Cover Images with Visme</a></p>
+        <br>
+
         <h4>100 Days of Code Round Two</h4>
         <p>12 June 2019 >> <a href="https://dev.to/theoriginalbpc/100-days-of-code-first-10-days-of-round-two-4gfj" targt="_blank">First 10 Days of Round Two</a></p>
         <p>20 June 2019 >> <a href="https://dev.to/theoriginalbpc/100-days-of-code-round-two-days-11-20-ak9" target="_blank">Days 11-20</a></p>
@@ -119,40 +160,29 @@ title: Blog
         <p>31 August 2019 >> <a href="https://dev.to/theoriginalbpc/100-days-of-code-round-two-days-81-90-255j" target="_blank">Days 81-90</a></p>
         <p>9 September 2019 >> <a href="https://dev.to/theoriginalbpc/100-days-of-code-round-two-days-91-100-1ga0" target="_blank">Days 91-100</a></p>
         <br>
-
-        <h4>Land Your Dream Job Summit</h4>
-        <p>5 September 2019 >> <a href="https://dev.to/theoriginalbpc/10-answers-for-using-job-boards-to-find-remote-jobs-3d91" target="_blank">10 Answers for Using Job Boards to Find Remote Jobs</a></p>
-        <br>
-
-        <h4>CNC2018 Get a Job Challenge</h4>
-        <p>24 November 2019 >> <a href="https://dev.to/theoriginalbpc/revisiting-cnc2018-get-a-job-how-to-find-companies-you-want-to-work-for-6gd" target="_blank">How to Find Companies You Want to Work For</a></p>
-        <p>27 December 2019 >> <a href="https://dev.to/theoriginalbpc/revisiting-cnc2018-get-a-job-how-to-find-roles-you-want-to-apply-for-3npe" target="_blank">How to Find Roles You Want to Apply For</a></p>
-        <p>20 February 2020 >> <a href="https://dev.to/theoriginalbpc/revisiting-cnc2018-get-a-job-a-quick-guide-to-updating-linkedin-491k" target="_blank">A Quick Guide to Updating LinkedIn</a></p>
-        <p>23 May 2020 >> <a href="https://dev.to/theoriginalbpc/a-newbie-s-handbook-to-talking-about-your-skills-28a8" target="_blank">A Newbie's Handbook to Talking About Your Skills</a></p>
-        <p>13 November 2020 >> <a href="https://dev.to/theoriginalbpc/how-to-find-5-contacts-at-the-companies-you-want-to-work-for-2f73" target="_blank">How to Find 5 Contacts at the Companies You Want to work For</a></p>
-        <br>
-
-        <h4>Disney Codes Challenge</h4>
-        <p>10 June 2020 >> <a href="https://dev.to/theoriginalbpc/days-1-10-5127" target="_blank">Days 1-10</a></p>
-        <p>20 June 2020 >> <a href="https://dev.to/theoriginalbpc/days-11-20-290n" target="_blank">Days 11-20</a></p>
-        <p>30 June 2020 >> <a href="https://dev.to/theoriginalbpc/days-21-30-12m1" target="_blank">Days 21-30</a></p>
-        <p>10 July 2020 >> <a href="https://dev.to/theoriginalbpc/days-31-40-4c24" target="_blank">Days 31-40</a></p>
-        <p>20 July 2020 >> <a href="https://dev.to/theoriginalbpc/days-41-50-3f0j" target="_blank">Days 41-50</a></p>
-        <p>27 July 2020 >> <a href="https://dev.to/theoriginalbpc/the-last-7-days-of-round-two-5a9d" target="_blank">The Last 7 Days of Round Two</a></p>
-        <br>
-
-        <h4>21 Days of Canva Challenge</h4>
-        <p>6 August 2020 >> <a href="https://dev.to/theoriginalbpc/days-1-10-5gbp" target="_blank">Days 1-10</a></p>
-        <p>17 August 2020 >> <a href="https://dev.to/theoriginalbpc/days-11-21-9h5" target="_blank">Days 11-21</a></p>
-        <br>
-
-        <h4>Visme</h4>
-        <p>28 September 2019 >> <a href="https://dev.to/theoriginalbpc/how-to-use-visme-to-help-your-desing-projects-stand-out-2hj0" target="_blank">How to Use Visme to Help Your Design Projects Stand Out</a>
-        <p>12 January 2020 >> <a href="https://dev.to/theoriginalbpc/how-to-create-a-phone-wallpaper-with-visme-957" target="_blank">How to Create a Phone Wallpaper with Visme</a></p>
-        <p>12 March 2020 >> <a href="https://dev.to/theoriginalbpc/how-to-create-a-linkedin-header-with-visme-4l6p" target="_blank">How to Create a LinkedIn Header with Visme</a></p>
-        <p>3 April 2020 >> <a href="https://dev.to/theoriginalbpc/how-i-created-two-facebook-cover-images-with-visme-iln" target="_blank">How I Created Two Facebook Cover Images with Visme</a></p>
-        <br>
       </div>
+    </div>
+  </div>
+</section>
+
+<section id="code-newbie">
+  <div class="container">
+    <h3>Code Newbie</h3>
+    <div class="row">
+      <div class="col-sm-12 col-md-12 col-lg-12">
+        <p>22 March 2021 >> <a href="https://community.codenewbie.org/theoriginalbpc/how-to-set-up-your-coding-workspace-4ge7" target="_blank">How to Set Up Your Coding Workspace</a></p>
+        <p>23 March 2021 >> <a href="https://community.codenewbie.org/theoriginalbpc/5-best-practices-developers-always-follow-48j0" target="_blank">5 Best Practices Developers Always Follow</a></p>
+        <p>23 March 2021 >> <a href="https://community.codenewbie.org/theoriginalbpc/common-beginner-mistakes-with-html-14cg" target="_blank">Common Beginner Mistakes with HTML</a></p>
+        <p>23 March 2021 >> <a href="https://community.codenewbie.org/theoriginalbpc/css-best-practices-4h7n" target="_blank">CSS Best Practices</a></p> 
+        <br>
+
+        <h4>Skillcrush 101</h4>
+        <p>New posts coming soon!</p>
+
+        <h4>Skillcrush 102</h4>
+        <p>New posts coming soon!</p>
+        <br>
+      </div>       
     </div>
   </div>
 </section>

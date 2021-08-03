@@ -1,72 +1,4 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>Blog</title>
-
-        <!-- Stylesheets -->
-        <link href="/assets/css/styles.css" rel="stylesheet">
-        
-        <!-- Font Awesome -->
-        <link href="/assets/font-awesome/css/all.min.css" rel="stylesheet">
-
-        <!-- Google Fonts -->
-        <link href="https://fonts.googleapis.com/css2?family=Josefin+Slab:wght@400;700&family=Roboto+Condensed:wght@400;700&display=swap" rel="stylesheet">
-        
-        <!-- Bootstrap -->
-        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6" crossorigin="anonymous">
-    </head>
-    <body>
-        <header>
-            <nav class="navbar navbar-expand-lg navbar-dark">
-    <div class="container-fluid">
-        <h1 class="navbar-brand">Sarah Bartley</h1>
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="#navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-        </button>
-  
-        <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul class="navbar-nav mr-auto mb-2 mb-lg-0">
-                
-                    <li class="nav-item">
-                        <a class="nav-link" href="/">
-                            Home
-                        </a>
-                    </li>
-                
-                    <li class="nav-item">
-                        <a class="nav-link" href="/about.html">
-                            About
-                        </a>
-                    </li>
-                
-                    <li class="nav-item">
-                        <a class="nav-link" href="/portfolio.html">
-                            Portfolio
-                        </a>
-                    </li>
-                
-                    <li class="nav-item">
-                        <a class="nav-link" href="/blog.html">
-                            Blog
-                        </a>
-                    </li>
-                
-                    <li class="nav-item">
-                        <a class="nav-link" href="/services.html">
-                            Services
-                        </a>
-                    </li>
-                
-            </ul>
-        </div>  
-    </div>
-</nav>
-        </header>
-        
-        <main>
-            <section id="original-bpc">
+I"_J<section id="original-bpc">
   <div class="container">
     <h2 class="text-center">Blog</h2>
     <h3>The Orignal BritishPandaChick</h3>
@@ -155,7 +87,7 @@
       <div class="col-sm-12 col-md-12 col-lg-4">
         <p>25 August 2020 &gt;&gt; <a href="https://dev.to/theoriginalbpc/reflections-on-the-7-days-7-websites-challenge-2hk2" target="_blank">Reflection on the 7 Days, 7 Websites Challenge</a></p>
         <br />
-        
+
         <h4>Skillcrush 101</h4>
         <p>29 February 2020 &gt;&gt; <a href="https://community.codenewbie.org/theoriginalbpc/how-to-add-additional-pages-to-your-website-49oi" target="_blank">How to Add Additional Pages to Your Website</a></p>
         <p>20 October 2020 &gt;&gt; <a href="https://community.codenewbie.org/theoriginalbpc/4-css-concepts-you-need-to-know-for-skillcrush-recipe-card-project-2ck5" targt="_blank">4 CSS Concepts You Need to Know for Skillcrush Recipe Card Project</a></p>
@@ -168,15 +100,6 @@
         <h4>21 Days of Canva Challenge</h4>
         <p>6 August 2020 &gt;&gt; <a href="https://dev.to/theoriginalbpc/days-1-10-5gbp" target="_blank">Days 1-10</a></p>
         <p>17 August 2020 &gt;&gt; <a href="https://dev.to/theoriginalbpc/days-11-21-9h5" target="_blank">Days 11-21</a></p>
-        <br />
-
-        <h4>Disney Codes Challenge</h4>
-        <p>10 June 2020 &gt;&gt; <a href="https://dev.to/theoriginalbpc/days-1-10-5127" target="_blank">Days 1-10</a></p>
-        <p>20 June 2020 &gt;&gt; <a href="https://dev.to/theoriginalbpc/days-11-20-290n" target="_blank">Days 11-20</a></p>
-        <p>30 June 2020 &gt;&gt; <a href="https://dev.to/theoriginalbpc/days-21-30-12m1" target="_blank">Days 21-30</a></p>
-        <p>10 July 2020 &gt;&gt; <a href="https://dev.to/theoriginalbpc/days-31-40-4c24" target="_blank">Days 31-40</a></p>
-        <p>20 July 2020 &gt;&gt; <a href="https://dev.to/theoriginalbpc/days-41-50-3f0j" target="_blank">Days 41-50</a></p>
-        <p>27 July 2020 &gt;&gt; <a href="https://dev.to/theoriginalbpc/the-last-7-days-of-round-two-5a9d" target="_blank">The Last 7 Days of Round Two</a></p>
         <br />
       </div>
 
@@ -194,24 +117,9 @@
         <p>12 July 2019 &gt;&gt; <a href="https://community.codenewbie.org/theoriginalbpc/11-presentation-tips-to-help-freelancers-get-ready-for-a-proposal-presentation-4bgo" target="_blank">11 Presentation Tips to Help Freelancers Get Ready for a Proposal Presentation</a></p>
         <p>22 July 2019 &gt;&gt; <a href="https://community.codenewbie.org/theoriginalbpc/a-complete-guide-to-project-agreements-and-workflow-1p6k" target="_blank">A Complete Guide to Project Agreements and Workflow</a></p>
         <br />
-
-        <h4>CNC2018 Get a Job Challenge</h4>
-        <p>24 November 2019 &gt;&gt; <a href="https://dev.to/theoriginalbpc/revisiting-cnc2018-get-a-job-how-to-find-companies-you-want-to-work-for-6gd" target="_blank">How to Find Companies You Want to Work For</a></p>
-        <p>27 December 2019 &gt;&gt; <a href="https://dev.to/theoriginalbpc/revisiting-cnc2018-get-a-job-how-to-find-roles-you-want-to-apply-for-3npe" target="_blank">How to Find Roles You Want to Apply For</a></p>
-        <p>20 February 2020 &gt;&gt; <a href="https://dev.to/theoriginalbpc/revisiting-cnc2018-get-a-job-a-quick-guide-to-updating-linkedin-491k" target="_blank">A Quick Guide to Updating LinkedIn</a></p>
-        <p>23 May 2020 &gt;&gt; <a href="https://dev.to/theoriginalbpc/a-newbie-s-handbook-to-talking-about-your-skills-28a8" target="_blank">A Newbie's Handbook to Talking About Your Skills</a></p>
-        <p>13 November 2020 &gt;&gt; <a href="https://dev.to/theoriginalbpc/how-to-find-5-contacts-at-the-companies-you-want-to-work-for-2f73" target="_blank">How to Find 5 Contacts at the Companies You Want to work For</a></p>
-        <br />
       </div>
 
       <div class="col-sm-12 col-md-12 col-lg-4">
-        <h4>Visme</h4>
-        <p>28 September 2019 &gt;&gt; <a href="https://dev.to/theoriginalbpc/how-to-use-visme-to-help-your-desing-projects-stand-out-2hj0" target="_blank">How to Use Visme to Help Your Design Projects Stand Out</a></p>
-        <p>12 January 2020 &gt;&gt; <a href="https://dev.to/theoriginalbpc/how-to-create-a-phone-wallpaper-with-visme-957" target="_blank">How to Create a Phone Wallpaper with Visme</a></p>
-        <p>12 March 2020 &gt;&gt; <a href="https://dev.to/theoriginalbpc/how-to-create-a-linkedin-header-with-visme-4l6p" target="_blank">How to Create a LinkedIn Header with Visme</a></p>
-        <p>3 April 2020 &gt;&gt; <a href="https://dev.to/theoriginalbpc/how-i-created-two-facebook-cover-images-with-visme-iln" target="_blank">How I Created Two Facebook Cover Images with Visme</a></p>
-        <br />
-
         <h4>100 Days of Code Round Two</h4>
         <p>12 June 2019 &gt;&gt; <a href="https://dev.to/theoriginalbpc/100-days-of-code-first-10-days-of-round-two-4gfj" targt="_blank">First 10 Days of Round Two</a></p>
         <p>20 June 2019 &gt;&gt; <a href="https://dev.to/theoriginalbpc/100-days-of-code-round-two-days-11-20-ak9" target="_blank">Days 11-20</a></p>
@@ -224,107 +132,33 @@
         <p>31 August 2019 &gt;&gt; <a href="https://dev.to/theoriginalbpc/100-days-of-code-round-two-days-81-90-255j" target="_blank">Days 81-90</a></p>
         <p>9 September 2019 &gt;&gt; <a href="https://dev.to/theoriginalbpc/100-days-of-code-round-two-days-91-100-1ga0" target="_blank">Days 91-100</a></p>
         <br />
-      </div>
-    </div>
-  </div>
-</section>
 
-<section id="code-newbie">
-  <div class="container">
-    <h3>Code Newbie</h3>
-    <div class="row">
-      <div class="col-sm-12 col-md-12 col-lg-12">
-        <p>22 March 2021 &gt;&gt; <a href="https://community.codenewbie.org/theoriginalbpc/how-to-set-up-your-coding-workspace-4ge7" target="_blank">How to Set Up Your Coding Workspace</a></p>
-        <p>23 March 2021 &gt;&gt; <a href="https://community.codenewbie.org/theoriginalbpc/5-best-practices-developers-always-follow-48j0" target="_blank">5 Best Practices Developers Always Follow</a></p>
-        <p>23 March 2021 &gt;&gt; <a href="https://community.codenewbie.org/theoriginalbpc/common-beginner-mistakes-with-html-14cg" target="_blank">Common Beginner Mistakes with HTML</a></p>
-        <p>23 March 2021 &gt;&gt; <a href="https://community.codenewbie.org/theoriginalbpc/css-best-practices-4h7n" target="_blank">CSS Best Practices</a></p> 
+        <h4>CNC2018 Get a Job Challenge</h4>
+        <p>24 November 2019 &gt;&gt; <a href="https://dev.to/theoriginalbpc/revisiting-cnc2018-get-a-job-how-to-find-companies-you-want-to-work-for-6gd" target="_blank">How to Find Companies You Want to Work For</a></p>
+        <p>27 December 2019 &gt;&gt; <a href="https://dev.to/theoriginalbpc/revisiting-cnc2018-get-a-job-how-to-find-roles-you-want-to-apply-for-3npe" target="_blank">How to Find Roles You Want to Apply For</a></p>
+        <p>20 February 2020 &gt;&gt; <a href="https://dev.to/theoriginalbpc/revisiting-cnc2018-get-a-job-a-quick-guide-to-updating-linkedin-491k" target="_blank">A Quick Guide to Updating LinkedIn</a></p>
+        <p>23 May 2020 &gt;&gt; <a href="https://dev.to/theoriginalbpc/a-newbie-s-handbook-to-talking-about-your-skills-28a8" target="_blank">A Newbie's Handbook to Talking About Your Skills</a></p>
+        <p>13 November 2020 &gt;&gt; <a href="https://dev.to/theoriginalbpc/how-to-find-5-contacts-at-the-companies-you-want-to-work-for-2f73" target="_blank">How to Find 5 Contacts at the Companies You Want to work For</a></p>
         <br />
 
-        <h4>Skillcrush 101</h4>
-        <p>New posts coming soon!</p>
-
-        <h4>Skillcrush 102</h4>
-        <p>New posts coming soon!</p>
+        <h4>Disney Codes Challenge</h4>
+        <p>10 June 2020 &gt;&gt; <a href="https://dev.to/theoriginalbpc/days-1-10-5127" target="_blank">Days 1-10</a></p>
+        <p>20 June 2020 &gt;&gt; <a href="https://dev.to/theoriginalbpc/days-11-20-290n" target="_blank">Days 11-20</a></p>
+        <p>30 June 2020 &gt;&gt; <a href="https://dev.to/theoriginalbpc/days-21-30-12m1" target="_blank">Days 21-30</a></p>
+        <p>10 July 2020 &gt;&gt; <a href="https://dev.to/theoriginalbpc/days-31-40-4c24" target="_blank">Days 31-40</a></p>
+        <p>20 July 2020 &gt;&gt; <a href="https://dev.to/theoriginalbpc/days-41-50-3f0j" target="_blank">Days 41-50</a></p>
+        <p>27 July 2020 &gt;&gt; <a href="https://dev.to/theoriginalbpc/the-last-7-days-of-round-two-5a9d" target="_blank">The Last 7 Days of Round Two</a></p>
         <br />
-      </div>       
-    </div>
-  </div>
-</section>
 
-        </main>
-        
-        <footer>
-            <section id="hired">
-  <div class="container-fluid">
-    <div class="row">
-      <div class="col-sm-12 col-md-8 col-lg-8">
-        <p><i class="far fa-envelope"></i> britishpandachick@gmail.com</p>
-      </div>
-
-      <div class="col-sm-12 col-md-4 col-lg-4">
-        <nav>  
-          <ul class="nav">
-            
-              <li class="nav-item">
-                <a href="http://www.facebook.com/sarahbartleybpc" target="_blank" class="nav-link">
-                  <i class="fab fa-facebook fa-2x"></i>
-                </a>
-              </li>
-            
-              <li class="nav-item">
-                <a href="https://twitter.com/TheOriginalBPC" target="_blank" class="nav-link">
-                  <i class="fab fa-twitter-square fa-2x"></i>
-                </a>
-              </li>
-            
-              <li class="nav-item">
-                <a href="https://www.linkedin.com/in/sarahbartleybpc" target="_blank" class="nav-link">
-                  <i class="fab fa-linkedin fa-2x"></i>
-                </a>
-              </li>
-            
-              <li class="nav-item">
-                <a href="https://www.instagram.com/britishpandachick" target="_blank" class="nav-link">
-                  <i class="fab fa-instagram fa-2x"></i>
-                </a>
-              </li>
-            
-              <li class="nav-item">
-                <a href="http://www.pinterest.com/theoriginalbpc" target="_blank" class="nav-link">
-                  <i class="fab fa-pinterest fa-2x"></i>
-                </a>
-              </li>
-            
-              <li class="nav-item">
-                <a href="https://github.com/BritishPandaChick" target="_blank" class="nav-link">
-                  <i class="fab fa-github fa-2x"></i>
-                </a>
-              </li>
-            
-          </ul>
-        </nav>
-      </div> 
-    </div>
-  </div>
-</section>
-
-<section id="copyright">
-  <div class="container-fluid">
-    <div class="row">
-      <div class="col-sm-12 col-md-12 col-lg-12">
-        <p>&copy; 2018-2021, Sarah Bartley | All Rights Reserved</p>
-      </div>
-    </div>
-  </div>
-</section>
-        </footer>
-        
-        <!-- Bootstrap JS-->
-        <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
-        <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.1/dist/umd/popper.min.js" integrity="sha384-SR1sx49pcuLnqZUnnPwx6FCym0wLsk5JZuNx2bPPENzswTNFaQU1RDvt3wT4gWFG" crossorigin="anonymous"></script>
-        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.min.js" integrity="sha384-j0CNLUeiqtyaRmlzUHCPZ+Gy5fQu0dQ6eZ/xAww941Ai1SxSY+0EQqNXNE6DZiVc" crossorigin="anonymous"></script>
-        
-        <!-- JS File -->
-        <script type="text/javascript" src="/assets/js/script.js"></script>
-    </body>
-</html>
+        <h4>Visme</h4>
+        <p>28 September 2019 &gt;&gt; <a href="https://dev.to/theoriginalbpc/how-to-use-visme-to-help-your-desing-projects-stand-out-2hj0" target="_blank">How to Use Visme to Help Your Design Projects Stand Out</a>
+        <p>12 January 2020 &gt;&gt; <a href="https://dev.to/theoriginalbpc/how-to-create-a-phone-wallpaper-with-visme-957" target="_blank">How to Create a Phone Wallpaper with Visme</a></p>
+        <p>12 March 2020 &gt;&gt; <a href="https://dev.to/theoriginalbpc/how-to-create-a-linkedin-header-with-visme-4l6p" target="_blank">How to Create a LinkedIn Header with Visme</a></p>
+        <p>3 April 2020 &gt;&gt; <a href="https://dev.to/theoriginalbpc/how-i-created-two-facebook-cover-images-with-visme-iln" target="_blank">How I Created Two Facebook Cover Images with Visme</a></p>
+        <br />
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/section&gt;
+</p></div></div></div></section>
+:ET
